@@ -29,24 +29,6 @@
     <a href="https://github.com/AgnihotriShivam">About Me</a>
   </p>
 </p>
-
-![GitHub contributors](https://img.shields.io/github/contributors/AgnihotriShivam
-/home?color=ffcc66&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/AgnihotriShivam
-/home?color=ffcc66&style=for-the-badge)
-[![GitHub forks](https://img.shields.io/github/forks/AgnihotriShivam
-/home?style=for-the-badge)](https://github.com/AgnihotriShivam
-/star_book/network)
-[![GitHub issues](https://img.shields.io/github/issues/AgnihotriShivam
-/home?color=ffcc66&style=for-the-badge)](https://github.com/AgnihotriShivam
-/star_book/issues)
-[![GitHub license](https://img.shields.io/github/license/AgnihotriShivam
-/home?style=for-the-badge)](https://github.com/AgnihotriShivam
-/home/blob/master/LICENSE)
-[![Twitter Follow](https://img.shields.io/twitter/follow/AgnihotriShivam
-?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/AgnihotriShivam
-)
-
 [![Site preview](/public/social-image.png)](https://AgnihotriShivam
 .github.io/home)
 
