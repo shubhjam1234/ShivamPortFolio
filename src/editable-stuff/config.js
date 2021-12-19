@@ -58,8 +58,8 @@ const about = {
   imageLink: require("../editable-stuff/shivam1.jpg"),
   imageSize: 375,
   message:
-      "Hi I am Shivam Agnihotri. A passionate DevOps and Infrastructure Specialist from India. I carry 6+ years of experience in various skills like AWS (EC2, S3, VPC, Route53, IAM, Security groups, ELB, ACM, RDS), Python (boto3), Docker/ECS Kubernetes/EKS. Having experience on CI/CD pipelines for code deployment using Git, Code Pipeline, Terraform. Having experience in Linux administration, onboarding projects on AWS, Trusted advisor.",
-  resume: "../editable-stuff/ShivamResume.pdf",
+      "Hi I am Shivam Agnihotri. A passionate DevOps and Infrastructure Specialist from India. I carry 6+ years of experience on various skills like AWS (EC2, S3, VPC, Route53, IAM, Security groups, ELB, ACM, RDS), Python (boto3), Docker/ECS Kubernetes/EKS. Having experience on CI/CD pipelines for code deployment using Git, Code Pipeline, Terraform. Having experience on Linux administration, onboarding project on AWS, Trusted advisor.",
+  resume: "https://drive.google.com/file/d/1n1BP8V_QTM3D4rJBSOsBk7Yegdtf19aD/view?usp=sharing",
 };
 
 // PROJECTS SECTION

@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.956fad23.chunk.css",
-    "main.js": "/home/static/js/main.1ae27481.chunk.js",
-    "main.js.map": "/home/static/js/main.1ae27481.chunk.js.map",
-    "runtime-main.js": "/home/static/js/runtime-main.3c590061.js",
-    "runtime-main.js.map": "/home/static/js/runtime-main.3c590061.js.map",
-    "static/js/2.c6a95f53.chunk.js": "/home/static/js/2.c6a95f53.chunk.js",
-    "static/js/2.c6a95f53.chunk.js.map": "/home/static/js/2.c6a95f53.chunk.js.map",
-    "index.html": "/home/index.html",
-    "precache-manifest.6a707dd3036b6f2640a6a68065b39be5.js": "/home/precache-manifest.6a707dd3036b6f2640a6a68065b39be5.js",
-    "service-worker.js": "/home/service-worker.js",
-    "static/css/main.956fad23.chunk.css.map": "/home/static/css/main.956fad23.chunk.css.map",
-    "static/js/2.c6a95f53.chunk.js.LICENSE.txt": "/home/static/js/2.c6a95f53.chunk.js.LICENSE.txt",
-    "static/media/hashirshoaeb.png": "/home/static/media/hashirshoaeb.32f6b574.png",
-    "static/media/prassanna.jpg": "/home/static/media/prassanna.702b8bc3.jpg",
-    "static/media/resume.pdf": "/home/static/media/resume.9d3da0e2.pdf"
+    "main.css": "/ShivamPortFolio/static/css/main.956fad23.chunk.css",
+    "main.js": "/ShivamPortFolio/static/js/main.2cdf29f5.chunk.js",
+    "main.js.map": "/ShivamPortFolio/static/js/main.2cdf29f5.chunk.js.map",
+    "runtime-main.js": "/ShivamPortFolio/static/js/runtime-main.ee56ad93.js",
+    "runtime-main.js.map": "/ShivamPortFolio/static/js/runtime-main.ee56ad93.js.map",
+    "static/js/2.d720fc91.chunk.js": "/ShivamPortFolio/static/js/2.d720fc91.chunk.js",
+    "static/js/2.d720fc91.chunk.js.map": "/ShivamPortFolio/static/js/2.d720fc91.chunk.js.map",
+    "index.html": "/ShivamPortFolio/index.html",
+    "precache-manifest.28202cfe990cf6e57ab45508e18839c4.js": "/ShivamPortFolio/precache-manifest.28202cfe990cf6e57ab45508e18839c4.js",
+    "service-worker.js": "/ShivamPortFolio/service-worker.js",
+    "static/css/main.956fad23.chunk.css.map": "/ShivamPortFolio/static/css/main.956fad23.chunk.css.map",
+    "static/js/2.d720fc91.chunk.js.LICENSE.txt": "/ShivamPortFolio/static/js/2.d720fc91.chunk.js.LICENSE.txt",
+    "static/media/ShivamResume.pdf": "/ShivamPortFolio/static/media/ShivamResume.e363fd35.pdf",
+    "static/media/bcl.png": "/ShivamPortFolio/static/media/bcl.5cfbec02.png",
+    "static/media/shivam1.jpg": "/ShivamPortFolio/static/media/shivam1.33e13362.jpg",
+    "static/media/shivam2.jpg": "/ShivamPortFolio/static/media/shivam2.fce552a8.jpg",
+    "static/media/tsystems1.png": "/ShivamPortFolio/static/media/tsystems1.8b30ea39.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c590061.js",
-    "static/js/2.c6a95f53.chunk.js",
+    "static/js/runtime-main.ee56ad93.js",
+    "static/js/2.d720fc91.chunk.js",
     "static/css/main.956fad23.chunk.css",
-    "static/js/main.1ae27481.chunk.js"
+    "static/js/main.2cdf29f5.chunk.js"
   ]
 }
