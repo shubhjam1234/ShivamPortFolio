@@ -1,5 +1,5 @@
 <!-- PROJECT LOGO -->
-<h1 align="center">Hi 👋, I'm Shivam Agnihotri</h1>
+<h1 align="center">Hi 👋, I'm Shubham Jamwadikar</h1>
 <h3 align="center">A passionate DevOps and Infrastructure Specialist from India. I carry 6+ years of experience on various skills like AWS (EC2, S3, VPC, Route53, IAM, Security groups, ELB, ACM, RDS), Python (boto3), Docker/ECS Kubernetes/EKS. Having experience on CI/CD pipelines for code deployment using Git, Code Pipeline, Terraform. Having experience on Linux administration, onboarding project on AWS, Trusted advisor.</h3>
 
 <br />
